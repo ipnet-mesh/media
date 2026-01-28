@@ -1,4 +1,4 @@
-# IPNet Press/Media
+# IPNet Media
 
 ## Videos
 
