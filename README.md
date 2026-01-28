@@ -4,7 +4,8 @@
 
 ### Promo (2026-01)
 
-[Source](./video/remotion/promo)
+* [YouTube](https://www.youtube.com/watch?v=dIw2WimLgI8)
+* [Source](./video/remotion/promo)
 
 Build:
 
