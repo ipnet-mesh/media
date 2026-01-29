@@ -10,5 +10,5 @@
 Build:
 
 ```bash
-px remotion render main out/promo.mp4 --codec=h264 --crf=15 --browser-executable=/etc/profiles/per-user/${USER}/bin/chromium --chrome-mode=chrome-for-testing
+npx remotion render main out/promo.mp4 --codec=h264 --crf=15 --browser-executable=/etc/profiles/per-user/${USER}/bin/chromium --chrome-mode=chrome-for-testing
 ```
